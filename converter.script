@@ -1,0 +1,33 @@
+Script started on 2020-10-06 12:45:55-04:00 [TERM="xterm-256color" TTY="/dev/pts/49" COLUMNS="180" LINES="52"]
+]0;ahemmin@compute:~/courses/cs2211a/Asn/asn2[ahemmin@compute asn2]$ ./a.out
+  Please enter a number (1=km->mi,2=li->gal,3=cm->in,4=C->F,5=quit): 8
+Please enter a number (1=km->mi,2=li->gal,3=cm->in,4=C->F,5=quit):      8
+Please enter a number (1=km->mi,2=li->gal,3=cm->in,4=C->F,5=quit):     1
+Please input the direction of the conversion, K for kilometers->miles and M for miles->kilometers: K
+Please input the number of kilometers: 1 2
+1.242742  Please enter a number (1=km->mi,2=li->gal,3=cm->in,4=C->F,5=quit): 1
+Please input the direction of the conversion, K for kilometers->miles and M for miles->kilometers: M
+Please input the number of miles: 2
+3.218680  Please enter a number (1=km->mi,2=li->gal,3=cm->in,4=C->F,5=quit): 2
+Please input the direction of the conversion, L for litres->gallons and G for gallons->litres: L
+Please input the number of litres: 2
+0.528344  Please enter a number (1=km->mi,2=li->gal,3=cm->in,4=C->F,5=quit): 2
+Please input the direction of the conversion, L for litres->gallons and G for gallons->litres: G
+Please input the number of gallons: 2
+7.570820  Please enter a number (1=km->mi,2=li->gal,3=cm->in,4=C->F,5=quit): 3
+Please input the direction of the conversion, C for centimeters->inches and I for inches->centimeters: C
+Please input the number of centimeters: 2
+0.787402  Please enter a number (1=km->mi,2=li->gal,3=cm->in,4=C->F,5=quit): 3
+Please input the direction of the conversion, C for centimeters->inches and I for inches->centimeters: I
+Please input the number of inches: 2
+5.080000  Please enter a number (1=km->mi,2=li->gal,3=cm->in,4=C->F,5=quit): 4
+Please input the direction of the conversion, C for celcius->farenheit and F for farenheit->celcius: C
+Please input the temperature in celcius: 2
+34.000000  Please enter a number (1=km->mi,2=li->gal,3=cm->in,4=C->F,5=quit): 4
+Please input the direction of the conversion, C for celcius->farenheit and F for farenheit->celcius: F
+Please input the temperature in farenheit: 2
+-16.666666  Please enter a number (1=km->mi,2=li->gal,3=cm->in,4=C->F,5=quit): 5
+]0;ahemmin@compute:~/courses/cs2211a/Asn/asn2[ahemmin@compute asn2]$ exit
+exit
+
+Script done on 2020-10-06 12:48:20-04:00 [COMMAND_EXIT_CODE="0"]
